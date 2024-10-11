@@ -1,0 +1,11 @@
+form.svelte-1lmq7fr {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem
+}
+
+fieldset.svelte-1lmq7fr {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem
+}
